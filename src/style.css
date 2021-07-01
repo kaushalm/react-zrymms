@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.buttons {
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  background-color: aliceblue;
+  font-size: 14px;
+  margin: 5px;
+}

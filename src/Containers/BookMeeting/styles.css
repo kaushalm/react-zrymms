@@ -1,0 +1,17 @@
+.slots {
+  padding: 5px;
+  margin: 5px;
+}
+
+.rooms {
+  height: 30px;
+  border-radius: 5px;
+  width: 100px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.booking_container {
+  border: 1px solid grey;
+  padding: 10px;
+}
